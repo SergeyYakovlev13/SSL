@@ -1,2 +1,2 @@
 # SSL
-Labs from Semi-supervised learning
+Labs from "Semi-supervised learning"
