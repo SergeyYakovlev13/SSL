@@ -1,2 +1,2 @@
 # SSL
-Labs from "Semi-supervised learning"
+Labs for "Semi-supervised learning", NTUU KPI, IASA, AI Department, 2023-2024.
